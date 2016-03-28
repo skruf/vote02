@@ -1,0 +1,8 @@
+{
+  "firebase": "vote02",
+  "public": "/",
+  "ignore": [
+    "node_modules/**/*",
+    ".*"
+  ]
+}
